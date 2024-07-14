@@ -1,0 +1,9 @@
+﻿global using MediatR;
+global using Domain.Base;
+global using Domain.Entities;
+global using System.Data;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Query;
+global using System.ComponentModel.DataAnnotations;
